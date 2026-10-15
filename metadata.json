@@ -1,0 +1,8 @@
+{
+  "name": "AEON Smart Home Enterprise",
+  "description": "Enterprise AI smart home guardian with avatar, voice command, edge vision, automation, emergency assist, and privacy-first security.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
